@@ -5,7 +5,7 @@ public class Test02 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		String str1 = "123";
-		String str2 = "123.123";//정수추가12
+		String str2 = "123.123";//정수추가126
 					
 		int s1 = Integer.parseInt(str1);
 		double d1 = Double.parseDouble(str2);
